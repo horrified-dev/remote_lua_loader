@@ -1,3 +1,6 @@
+-- due to our limitations, readlink is not available to us, simply because libkernel_sys.sprx isn't loaded.
+-- not only is this a problem for us, but also limits us to only see whats going on in /mnt/sandbox/CUSA_XXXX/.
+
 function filesystem()
     local chain_data = bump.alloc(256)
     memory.write_buffer(chain_data, "/app0\0") 
