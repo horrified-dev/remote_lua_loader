@@ -21,6 +21,7 @@ This repo provides few [payloads](payloads/) for you to play around. PRs for use
 * null_ptr - for testing & ideas
 * gezine - for sharing the vulnerable games & ideas
 * specter & chendo - for webkit implementations which i refer a lot
-* al-azif - parts and information grabbed from his sdk, aswell as from his ftp server
+* al-azif - parts and information grabbed from his ps4 sdk
+* xerpi - parts taken from his ftp server
 * everyone else who shared their knowledge with the community
 
